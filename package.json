@@ -1,0 +1,29 @@
+{
+  "name": "joncopm",
+  "version": "1.0.0",
+  "description": "Jonco Lab development studio package manager",
+  "main": "core/src/index.ts",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "yarn test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoncoLab/joncopm.git"
+  },
+  "keywords": [
+    "packages",
+    "custom",
+    "jonco",
+    "web",
+    "development"
+  ],
+  "author": "Jonco Lab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoncoLab/joncopm/issues"
+  },
+  "homepage": "https://github.com/JoncoLab/joncopm#readme"
+}

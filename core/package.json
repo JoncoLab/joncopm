@@ -1,0 +1,34 @@
+{
+  "name": "@joncopm/core",
+  "version": "1.0.0",
+  "description": "Core package",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JoncoLab/joncopm.git",
+    "directory": "core"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "keywords": [
+    "packages",
+    "custom",
+    "jonco",
+    "web",
+    "development",
+    "core"
+  ],
+  "author": "Jonco Lab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoncoLab/joncopm/issues"
+  },
+  "homepage": "https://github.com/JoncoLab/joncopm#readme",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
